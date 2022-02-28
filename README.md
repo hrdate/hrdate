@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm dateolive! 👋
 
 - 🔭 I’m currently studying on GuangZhou University
-- 🌱 I’m currently learning Java&&C++&&&&Web
+- 🌱 I’m currently learning Java&&C++&&Vue&&Web
 - 💬 Ask me about WeChat:di_love_yu
+- 😄 Pronouns: 一名大三无业学生
 - 📫 How to reach me: Blog:https://www.hrdate.top/ Email:535523596@qq.com CSDN:https://blog.csdn.net/hrd535523596
 
 
