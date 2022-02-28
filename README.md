@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdate&layout=compact&hide=html,css,javascript,java,C++)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **hrdate/hrdate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there, I'm dateolive! 👋
+
+- 🔭 I’m currently studying on GuangZhou University
+- 🌱 I’m currently learning Java&&C++&&&&Web
+- 💬 Ask me about WeChat:di_love_yu
+- 📫 How to reach me: Blog:https://www.hrdate.top/ Email:535523596@qq.com CSDN:https://blog.csdn.net/hrd535523596
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hrdate&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdate)](https://github.com/anuraghazra/github-readme-stats)
