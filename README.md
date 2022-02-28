@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm dateolive! 👋
-
 - 🔭 I’m currently studying on GuangZhou University
 - 🌱 I’m currently learning Java&&C++&&Vue&&Web
 - 💬 Ask me about WeChat:di_love_yu
